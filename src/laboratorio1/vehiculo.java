@@ -7,6 +7,10 @@ package laboratorio1;
 /**
  *
  * @author mgacosta
+ * 
+ * 
+ * 
+ * 
  */
 public class vehiculo {
     
