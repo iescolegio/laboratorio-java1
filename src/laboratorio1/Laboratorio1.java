@@ -19,9 +19,9 @@ public class Laboratorio1 {
        // int contador=3;
         Resultado valor;
         vehiculo v=new vehiculo("600");
-       valor= v.Valor();
+      // valor= v.Valor();
      
-      System.out.println(" Valor " +  valor.GetTexto());
+     // System.out.println(" Valor " +  valor.GetTexto());
         v.SetPotencia(2000);
         v.SetTraccion(true);
         System.out.println("Las caracteristicas de mi Coche son "+ v.muestraVehiculo());
